@@ -1,5 +1,7 @@
 ### Bem-Vindo ao meu perfil! ✨
 
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Católica do Salvador, com interesse especial na área de backend. 
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_2739)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-victor-de-paula-nascimento-7008332ba/)
 
