@@ -3,7 +3,7 @@
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Católica do Salvador, com interesse especial na área de backend. 
 
 ![jv5988 GitHub stats](https://github-readme-stats.vercel.app/api?username=jv5988&show_icons=true&theme=radical)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?jv5988&=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jv5988)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias e Ferramentas
 
