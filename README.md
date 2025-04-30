@@ -2,7 +2,7 @@
 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Católica do Salvador, com interesse especial na área de backend. 
 
-![jv5988 GitHub stats](https://github-readme-stats.vercel.app/api?username=jv5988&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jv5988&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jv5988&layout=compact&theme=radical)
 
 ### Tecnologias e Ferramentas
