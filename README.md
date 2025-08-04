@@ -3,7 +3,7 @@
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Católica do Salvador, com interesse especial na área de backend. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jv5988&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jv5988&hide_progress=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jv5988&hide_progress=false&theme=radical)
 
 ### Tecnologias e Ferramentas
 
